@@ -7,7 +7,7 @@ const App = () => {
     
     return (
         <div className='wrap'>
-            <h1>Main No Router</h1>
+            <Router />
         </div>
     );
 }
